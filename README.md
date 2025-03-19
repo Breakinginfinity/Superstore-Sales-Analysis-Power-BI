@@ -13,6 +13,11 @@ The dashboard provides the following insights:
 - **Comparisons of Performance to Prior Years**
 - **Drill-down Capability into Individual Markets and Products**
 
+## Dashboard
+
+![Screenshot (343)](https://github.com/user-attachments/assets/ec87af1d-9605-494b-9af8-4b20b8eb515e)
+
+
 ## Problem Statement
 The objective is to build a **Sales Analysis, Product Analysis, and Shipping Analysis Dashboard** to help businesses understand their sales trends, product performance, and shipping efficiency.
 
