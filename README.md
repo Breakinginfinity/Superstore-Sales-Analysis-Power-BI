@@ -40,13 +40,7 @@ The dataset used for this analysis is the **Superstore Sales Dataset** available
 - Actionable insights to optimize sales strategies and business performance.
 - Improved understanding of sales trends and customer preferences.
 
-## Repository Structure
-```
-├── Data/                 # Raw dataset (not included due to size limitations)
-├── PowerBI_Files/        # Power BI (.pbix) file
-├── Reports/              # Screenshots and reports from the dashboard
-├── README.md             # Project documentation
-```
+
 
 ## Contribution
 If you'd like to contribute to this project, feel free to submit a pull request with your improvements or suggestions.
